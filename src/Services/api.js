@@ -43,7 +43,7 @@ export function loadLists() {
           {
             id: 6,
             content: 'Recriando clone do Pipefy',
-            labels: [],
+            labels: ['#00FF00'],
             user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
           }
         ]
@@ -79,7 +79,7 @@ export function loadLists() {
           {
             id: 10,
             content: 'Gravar aula sobre deploy e CI com React Native',
-            labels: [],
+            labels: ['#FF0000'],
           },
           {
             id: 12,
